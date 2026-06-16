@@ -16,15 +16,6 @@ This repository documents my practical learning and hands-on experience with AWS
 - User Permissions and sudo
 - Screenshots and Command Outputs
 
-## Learning Objectives
-
-- Understand AWS EC2 fundamentals.
-- Launch and manage EC2 instances.
-- Connect to Linux servers using SSH.
-- Practice common Linux commands.
-- Learn the purpose and usage of sudo.
-- Document learning with screenshots and notes.
-
 ## Repository Structure
 
 ```text
