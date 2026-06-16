@@ -26,7 +26,6 @@ Amazon Elastic Compute Cloud (EC2) is a web service provided by Amazon Web Servi
 - Enables learning and practicing Linux and cloud technologies.
   
 
-### EC2 Workflow
 
 
 
