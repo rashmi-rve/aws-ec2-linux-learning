@@ -34,8 +34,6 @@ aws-ec2-linux-learning/
 ├── aws-ec2/
 ├── ubuntu/
 ├── amazon-linux/
-├── screenshots/
-└── learning-log.md
 ```
 
 ## Author
