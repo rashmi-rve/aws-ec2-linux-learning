@@ -25,7 +25,7 @@ aws-ec2-linux-learning/
 ├── aws-ec2/
 ├── Ubuntu.md
 ├── AmazonLinux.md
-├── 
+├── LinuxOS-dominateCloudEnvironment.png
 ├── 
 ```
 
