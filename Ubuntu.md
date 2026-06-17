@@ -67,13 +67,13 @@ _**Step 10. Learn comman echo -enters data in file, cat -read data from file.**_
 
 _______________________________________________________________________________________________________________________________________
 
-_**Step 11: Summary: cd -The cd (Change Directory) command is used to move from one directory (folder) to another in Linux, ls -The ls command is used to list the files and directories in the current directory, mkdir -creates folder, touch -creates file, echo -enters data, cat - read data, rm -deletes data/file/folder, exit -helps lougout.**_
+_**Step 11. Summary: cd -The cd (Change Directory) command is used to move from one directory (folder) to another in Linux, ls -The ls command is used to list the files and directories in the current directory, mkdir -creates folder, touch -creates file, echo -enters data, cat - read data, rm -deletes data/file/folder, exit -helps lougout.**_
 
 <img width="896" height="376" alt="summary" src="https://github.com/user-attachments/assets/088f793a-1a4f-47a8-92e8-acd10b5f7bd0" />
 
 _______________________________________________________________________________________________________________________________________
 
-_**Step 12: Terminate the instance if it is no more in use because it generates the bill.**_
+_**Step 12. Terminate the instance if it is no more in use because it generates the bill.**_
 
 <img width="1732" height="407" alt="Terminated" src="https://github.com/user-attachments/assets/e679f687-b228-4db5-9cda-cb6505152ef5" />
 
