@@ -15,21 +15,21 @@ _**Step 2. System update is needed through command: dnf/yum**_
 
 __________________________________________________________________________________________________________________________________________________
 
-_**Step 12. Practice commands : cd, ls, mkdir, touch, echo, cat
+_**Step 3. Practice commands : cd, ls, mkdir, touch, echo, cat
 **_
 
 <img width="1732" height="827" alt="filesys" src="https://github.com/user-attachments/assets/f0f691da-4b35-40e8-9ba9-71a149006f04" />
 
 _________________________________________________________________________________________________________________________________________________
 
-_**Step 13. The sudo -i command switches to the root (administrator) user and starts a root login shell. So after exit 'yum update' did not work.
+_**Step 4. The sudo -i command switches to the root (administrator) user and starts a root login shell. So after exit 'yum update' did not work.
 **_
 
 <img width="1397" height="330" alt="sudo-i" src="https://github.com/user-attachments/assets/a420d12b-f816-4975-9bed-99f8c8441065" />
 
 _________________________________________________________________________________________________________________________________________________
 
-_**Step 14. Sometimes EC2 instance should be terminated or stopped mistakenly, so we can enable the protection through Action, see the image below.**_
+_**Step 5. Sometimes EC2 instance should be terminated or stopped mistakenly, so we can enable the protection through Action, see the image below.**_
 
 <img width="1732" height="532" alt="protr" src="https://github.com/user-attachments/assets/39e18285-98b6-4f68-9f58-52acb00e80ec" />
 
