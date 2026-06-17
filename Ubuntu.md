@@ -1,8 +1,7 @@
 # Creating EC2 instance through Ubuntu
 _____________________________________________________________________________________________________________________________________
 
-**_**Step 1. Choose a suitable name
-**_**
+_**Step 1. Choose a suitable name**_
 
 <img width="1727" height="605" alt="ubuntu1" src="https://github.com/user-attachments/assets/6f9a90c1-61cb-49bf-9a96-eac933081c9b" />
 
