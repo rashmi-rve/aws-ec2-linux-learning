@@ -23,9 +23,10 @@ aws-ec2-linux-learning/
 │
 ├── README.md
 ├── aws-ec2/
-├── ubuntu/
-├── amazon-linux/
-├── Key points.md/
+├── Ubuntu.md
+├── AmazonLinux.md
+├── 
+├── 
 ```
 
 ## Author
