@@ -26,7 +26,7 @@ aws-ec2-linux-learning/
 ├── Ubuntu.md
 ├── AmazonLinux.md
 ├── LinuxOS-dominateCloudEnvironment.png
-├── 
+├── stop-terminate-instance-state-diff.png
 ```
 
 ## Author
