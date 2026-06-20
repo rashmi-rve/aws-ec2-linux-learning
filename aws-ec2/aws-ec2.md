@@ -63,7 +63,7 @@ Amazon Elastic Compute Cloud (EC2) is a web service provided by Amazon Web Servi
    <img width="1222" height="456" alt="image" src="https://github.com/user-attachments/assets/dc7014d7-ccd2-4e46-a2b7-0b9bf80c78bf" />
 
 
-6. Create Key Pair - IT helps connecting to virtual machine remotely, it gets downloaded and it can be used when we access through MobaXterm/Putty.
+6. Create Key Pair - It helps connecting to virtual machine remotely, it gets downloaded and it can be used when we access through MobaXterm/Putty.
 
    <img width="1260" height="215" alt="image" src="https://github.com/user-attachments/assets/81efb87d-a969-4e38-8d28-010690721ea5" />
 
