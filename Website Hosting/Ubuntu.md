@@ -38,7 +38,6 @@ _#move all content to nginx location_
 
 sudo mv * /var/www/html
 
-_#copy public IP and paste it to browser
-_#
+_#copy public IP and paste it to browser_
 
 
