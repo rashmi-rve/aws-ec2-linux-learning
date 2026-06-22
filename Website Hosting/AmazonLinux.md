@@ -15,11 +15,11 @@ wget link
 
 ls
 
-_#rename the list name _
+_#rename the list name_
 
 mv name name.zip
 
-_#unzip is already installed _
+_#unzip is already installed_
 
 unzip name.zip
 
