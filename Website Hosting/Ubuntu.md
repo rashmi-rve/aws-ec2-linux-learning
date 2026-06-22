@@ -1,5 +1,7 @@
 _#Ubuntu-nginx_
 
+_#launch an EC2 instance through ubuntu_
+
 sudo apt update
 
 sudo apt upgrade -y
@@ -32,11 +34,11 @@ unzip name.zip
 
 ls
 
-#move all content to nginx location
+_#move all content to nginx location_
 
 sudo mv * /var/www/html
 
-
-
+_#copy public IP and paste it to browser
+_#
 
 
