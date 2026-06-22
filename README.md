@@ -28,6 +28,7 @@ aws-ec2-linux-learning/
 ├── LinuxOS-dominateCloudEnvironment.png
 ├── stop-terminate-instance-state-diff.png
 ├── Website-Hosting/
+├── ShellScript.md
 ```
 
 ## Author
