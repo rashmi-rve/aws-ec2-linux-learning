@@ -1,22 +1,31 @@
 _#RedHat_
 
 _#launch EC2 instance through Red Hat_
+
 _#Key pair is must - .pem for mobaxterm and .ppk for putty_
 
 _#connection required through remote desktop_ _#session_
+
 _#download mobaxterm_
+
 _#Public IP is required_
+
 _#user is required_ 
+
 _#private key is to upload in advance setting_
 
 sudo yum update 
+
 sudo yum install ngnix
+
 sudo systemctl start nginx
+
 sudo systemctl status nginx
 
 sudo yum install wget
 
 _#copy any free CSS template for practice_
+
 wget link
 
 ls
