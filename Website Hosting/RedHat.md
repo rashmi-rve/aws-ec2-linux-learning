@@ -3,7 +3,7 @@ _#RedHat_
 _#launch EC2 instance through Red Hat_
 _#Key pair is must - .pem for mobaxterm and .ppk for putty_
 
-_#connection required through remote desktop_
+_#connection required through remote desktop_ _#session_
 _#download mobaxterm_
 _#Public IP is required_
 _#user is required_ 
